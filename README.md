@@ -13,7 +13,7 @@ This project presents a GIS-based comparative analysis of two major industrial r
 - Spatial Analysis  
 
 ## 🗺️ Study Area Map
-![Study Area](study-area-map.png)
+![Study Area](STUDY-AREA-MAP.png)
 
 ## 🎯 Objective
 To analyze and compare the spatial and economic characteristics of major industrial corridors in India.
